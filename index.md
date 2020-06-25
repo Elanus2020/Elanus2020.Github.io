@@ -9,3 +9,5 @@ im Exil begann er Luke Skywalker auszubilden. Nachdem dieser nach Dagobah zurüc
 
 As Yoda said:
 > May the force with you
+
+<img src="https://pngimg.com/uploads/starwars/starwars_PNG40.png"/>
