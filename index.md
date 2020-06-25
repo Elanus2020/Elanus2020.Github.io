@@ -6,6 +6,7 @@ im Exil begann er Luke Skywalker auszubilden. Nachdem dieser nach Dagobah zurüc
 * klein
 * grün
 * mächtig
+* sehr alt
 
 As Yoda said:
 > May the force with you
